@@ -14,7 +14,7 @@ URL : [sourceforge.net/projects/mxoemu/](http://sourceforge.net/projects/mxoem
 
 [](http://sourceforge.net/projects/mxoemu/screenshots/4454)
 
--   ![mxoemu](//images/mxoemu.598.449.s.jpg)
+-   ![mxoemu](images/mxoemu.598.449.s.jpg)
 
 **2005 - Tequila and MXOemu.de\
 **
