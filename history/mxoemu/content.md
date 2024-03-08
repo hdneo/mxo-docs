@@ -10,11 +10,11 @@ He build a small "crappy" Server that just patch the Client (and maybe does log
 
 The Sourceforge Project still exist but it isnt active since Years.
 
-URL : [sourceforge.net/projects/mxoemu/](http://sourceforge.net/projects/mxoemu/)
+[sourceforge.net/projects/mxoemu/](http://sourceforge.net/projects/mxoemu/)
 
 [](http://sourceforge.net/projects/mxoemu/screenshots/4454)
 
--   ![mxoemu](images/mxoemu.598.449.s.jpg)
+-   ![mxoemu](../../../images/mxoemu.598.449.s.jpg)
 
 **2005 - Tequila and MXOemu.de\
 **
