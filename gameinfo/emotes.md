@@ -1,4 +1,6 @@
-# Moods
+# Emotes and Moods
+
+### Moods
 
  /mood normal  | lvl 01 |\
  /mood drunk | lvl 03 |\
@@ -18,7 +20,7 @@
  /mood sexy | lvl 20 |\
 
 
-# Emote List
+### Emote List
 
 /agree\
 /aikidodefense\
@@ -172,7 +174,7 @@
 /yawn\
 /yes
 
-Emotes mit 2 Personen
+## Emotes mit 2 Personen
 
 /dap\
 /dogsniff\
