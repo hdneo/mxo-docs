@@ -53,11 +53,11 @@ No files or source wasnt released in this time. But as far as i know he had brok
 
 **2009 - When the world ends...**
 
-As Rarebit announce that he left SOE , i thought about the give the MxO Emulation for myself a try. After many research what still exists i came to the results above in this site :)
+As Rarebit announce that he left SOE, i thought about the give the Mx OEmulation for myself a try. After many research what still exists i came to the results above in this site :)
 
 So the first thing i had done was contacting rajko , but he didnt really cared about MxO in this time. Somewhere in this time morpheus contacted me (i think it was on elitepvpers ) and we both started researching.
 
-As SOE announce in May 2009 that MxO will be shut down , we started tmoemu.tk (The Matrix Online Information Center lol - which is today mxoemu.info).
+As SOE announce in May 2009 that MxO will be shut down , we started tmoemu.tk (The Matrix Online Information Center lol - which is today mxoemu.info).
 
 Again - i contacted Rajko with no big result in the first case. As our Website in Forum was online i decided to contact him the last time - and was suprised that he was willing to give it a try again.
 

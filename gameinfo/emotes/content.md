@@ -1,21 +1,21 @@
 # Moods
 
-| /mood normal | lvl 01 |
-| /mood drunk | lvl 03 |
-| /mood hurt | lvl 04 |
-| /mood shy | lvl 05 |
-| /mood fidgety | lvl 06 |
-| /mood bouncy | lvl 07 |
-| /mood casual | lvl 08 |
-| /mood cautious | lvl 09 |
-| /mood stoic | lvl 10 |
-| /mood shifty | lvl 11 |
-| /mood aggressive   | lvl 12 |
-| /mood regal | lvl 13 |
-| /mood sly | lvl 14 |
-| /mood sultry | lvl 15 |
-| /mood cocky | lvl 17 |
-| /mood sexy | lvl 20 |\
+ /mood normal  | lvl 01 |\
+ /mood drunk | lvl 03 |\
+ /mood hurt | lvl 04 |\
+ /mood shy | lvl 05 |\
+ /mood fidgety | lvl 06 |\
+ /mood bouncy | lvl 07 |\
+ /mood casual | lvl 08 |\
+ /mood cautious | lvl 09 |\
+ /mood stoic | lvl 10 |\
+ /mood shifty | lvl 11 |\
+ /mood aggressive | lvl 12 |\
+ /mood regal | lvl 13 |\
+ /mood sly | lvl 14 |\
+ /mood sultry | lvl 15 |\
+ /mood cocky | lvl 17 |\
+ /mood sexy | lvl 20 |\
 
 
 # Emote List
