@@ -1,8 +1,22 @@
+title: "The Matrix Online Game Docs by Hardline Dreams for Server-side emulation projects"
+logo: /images/hd_logo.png
+color-scheme: dark
+
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - README.md
   - LICENSE.md
+
+#theme: jekyll-theme-tactile
