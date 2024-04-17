@@ -7,6 +7,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-assets
   - jekyll-remote-theme
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
