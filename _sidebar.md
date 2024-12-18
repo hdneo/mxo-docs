@@ -1,10 +1,18 @@
 
 * [HOME](./)
 
-* [Game Info](./gameinfo/index)
-  * [Mission Contacts](./gameinfo/missioncontacts)
-  * [Hideout Loot List](./gameinfo/hideoutlootlist)
-  * [Emotes](./gameinfo/emotes)
+* [Game Info](./game-info/index)
+  * [Mission Contacts](./game-info/mission-contacts)
+  * [Hideout Loot List](./game-info/hideout-loot-list)
+  * [Hardlines](./game-info/hardlines)
+  * [Emotes](./game-info/emotes)
+  * [Ingame Commands](./game-info/ingame-commands)
+  * [Collectors](./game-info/collectors-list)
+  * [Access Keys Drop](./game-info/access-keys-list)
+  * [Access Nodes](./game-info/access-nodes-list)
+  * [Archive Loots](./game-info/archive-loot-list)
+  * [Archive Contacts](./game-info/archive-contacts)
+  * [Red Code Frags](./game-info/red-code-frags)
 
 * [Development](./development/index)
   * [Downloads](./development/downloads)
