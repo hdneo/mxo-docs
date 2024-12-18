@@ -1,13 +1,11 @@
 # RPC Packets
 
-<style>
-    .status { padding: 5px; }
-    .status_not_started { background: red; }
-    .status_progress { background: orange; }
-    .status_done { background: green; }
-</style>
+<br/><br/>
 
 ### Client RPC #### 
+<br/>
+
+<div class="rpc_table"></div>
 
 | OPCode | Name                                                    | Status                                     | 
 |--------|---------------------------------------------------------|--------------------------------------------|
@@ -16,7 +14,13 @@
 | 0x29   | CLIENT_WHISPER                                          | <div class="status status_done">100%</div> |
 | 0x2a   | CLIENT_SET_AFK                                          | <div class="status status_done">100%</div> |
 
-## Server RPC
+<br/>
+<br/>
+
+### Server RPC ####
+<br/>
+
+<div class="rpc_table"></div>
 
 | OPCode | Name                             | Status                                     | 
 |--------|----------------------------------|--------------------------------------------|
