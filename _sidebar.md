@@ -26,6 +26,7 @@
 * [History](./history/index)
   * [Mxo Emulation](./history/mxoemu)
 * [About](./about/index)
+  * [Contact](./contact/index)* 
 
-* [Contact](./contact/index)
+
 
